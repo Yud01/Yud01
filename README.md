@@ -1,18 +1,18 @@
-<h1 align="center">Hi, I'm Yudong Qiu(Yud01) 👋</h1>
+<h1 align="center">Hi, I'm Yudong Qiu (Yud01) 👋</h1>
 <p align="center">Data Science × Accounting · Linux · Android · IR/NLP</p>
 
 <p align="center">
-  <a href="mailto:your_email@example.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/your-link">LinkedIn</a> ·
+  <a href="mailto:qiuyudong4@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/yudong-qiu-118b2131a/">LinkedIn</a> ·
   <a href="https://yud01.github.io">Website</a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Accounting 背景 + 计算/数据科学（IR,NLP,数据挖掘，数据清理）
-- 🔭 最近：20NG 文本分类、BM25/TF-IDF 检索、Android 小应用、审计自动化原型
-- 💬 技术：Python / R / Java（Android）、Linux、财务分析与 IFRS 实务
+- 🎓 Accounting background + Computing/Data Science (IR, NLP, data mining, data wrangling/cleaning)
+- 🔭 Recently: 20NG text classification, BM25/TF-IDF retrieval, Android apps, audit-automation prototypes
+- 💬 Tech: Python / R / Java (Android), Linux, financial analysis & IFRS practice
 
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -24,12 +24,11 @@
 
 ### 🚀 Featured Projects
 
-
 ### 📊 GitHub Stats
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yud01&show_icons=true&rank_icon=github" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yud01&layout=compact&langs_count=8" />
 <img height="170" src="https://streak-stats.demolab.com?user=Yud01" />
 
 ### 📫 Contact
-- Email: your_email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-link
+- Email: qiuyudong4@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yudong-qiu-118b2131a/
