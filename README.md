@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yudong Qiu (Yud01) 👋</h1>
-<p align="center">Data Science × Accounting · Linux · Data Science</p>
+<p align="center">Data Science × Accounting · Linux </p>
 
 <p align="center">
   <a href="mailto:qiuyudong4@gmail.com">Email</a> ·
