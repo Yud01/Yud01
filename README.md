@@ -9,7 +9,7 @@
 
 <!-- HERO: Reading Notes CTA -->
 <h2 align="center">📚 <a href="https://yud01.github.io/Study-noes/" target="_blank">My Study Notes</a></h2>
-<p align="center">IR/NLP · Linux · IFRS · Always up to date</p>
+<p align="center">Data Science · IFRS · Always up to date</p>
 <p align="center">
   <a href="https://yud01.github.io/Study-noes/" target="_blank">
     <img alt="Open Study Notes"
