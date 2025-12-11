@@ -33,11 +33,6 @@
 
 ### 🚀 Featured Projects
 
-### 📊 GitHub Stats
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yud01&show_icons=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yud01&layout=compact&langs_count=8" />
-<img height="170" src="https://streak-stats.demolab.com?user=Yud01" />
-
 ### 📫 Contact
 - Email: qiuyudong4@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yudong-qiu-118b2131a/
